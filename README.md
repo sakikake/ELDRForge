@@ -26,17 +26,11 @@ Tested with After Effects 2025 (25.6.5) on macOS Tahoe 26.6.2 and Windows 11 25H
 - メモリ: 16 GB以上（4K以上は32 GB推奨）
 - macOS CPU: Apple Silicon、またはAVX2対応のIntel CPU
 - Windows CPU: Intel第6世代以降、またはAMD Ryzen 1000シリーズ以降のAVX2対応CPU（x64）
-- macOS処理バックエンド: Metal、またはCPU
-- Windows処理バックエンド: DirectX 12、またはCPU
-- Windows追加要件: Microsoft Visual C++ 2015-2022 Redistributable（x64）
 
 - Supported After Effects versions: 2025 (25.6.5) or later
 - Memory: 16 GB RAM minimum (32 GB recommended for 4K or larger projects)
 - macOS CPU: Apple Silicon or an Intel CPU with AVX2 support
 - Windows CPU: An AVX2-capable x64 CPU from Intel (6th generation or later) or AMD (Ryzen 1000 series or later)
-- macOS processing backend: Metal or CPU
-- Windows processing backend: DirectX 12 or CPU
-- Additional Windows requirement: Microsoft Visual C++ 2015-2022 Redistributable (x64)
 
 ## Download
 
@@ -58,6 +52,8 @@ ELDR Forgeは、個人・法人を問わず、商用を含む映像制作で無�
 - 利用人数、端末数に制限はありません。
 - ELDR Forgeで制作した映像・画像は、公開、納品、放送、配信、販売できます。
 - アカウント登録やオンラインライセンス認証はありません。
+- 制作物へのクレジット表記をしてくださる方がいたら【プラグイン協力：sakikake】のような形でお願いします。
+  ※連絡をくれたら応援します。
 
 プラグイン本体の転載、再配布、転売、改変、解析、他製品への同梱は禁止します。
 詳細は[`LICENSE.txt`](LICENSE.txt)を確認してください。
