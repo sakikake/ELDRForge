@@ -1,0 +1,96 @@
+ELDR Forge 0.1.0 macOS版 導入案内
+
+動作確認環境・要件
+
+- 動作確認済み: Adobe After Effects 2025（25.6.5）
+- 対応するAfter Effects: 2025（25.6.5）以降
+- macOS Tahoe 26.6.2
+- Apple Silicon、またはAVX2対応のIntel CPU
+- メモリ16 GB以上（4K以上は32 GB推奨）
+
+インストール
+
+1. After Effectsを終了します。
+2. 「ELDR Forge.plugin」を次のフォルダーへコピーします。
+
+   ~/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore/
+
+   フォルダーが存在しない場合は作成してください。
+3. After Effectsを起動します。
+4. Effect > Valkyrja Graphics > ELDR Forge に表示されることを確認します。
+
+更新
+
+After Effectsを終了し、インストール先にある旧版の
+「ELDR Forge.plugin」を新版で置き換えてから再起動します。
+
+アンインストール
+
+After Effectsを終了し、インストール先から
+「ELDR Forge.plugin」を削除してから再起動します。
+
+署名について
+
+このPre-release版はDeveloper ID署名およびAppleの公証を行っていません。
+macOSのセキュリティ機能により、読み込みが制限される場合があります。
+公式GitHub Releases以外から取得したファイルは使用しないでください。
+
+利用条件
+
+同梱のLICENSE.txtを確認してください。
+ダウンロードまたは使用をもって、同利用規約に同意したものとします。
+
+公式配布元・連絡先
+
+https://github.com/sakikake/ELDRForge/releases
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net
+
+--- English ---
+
+ELDR Forge 0.1.0 for macOS - Installation Guide
+
+Tested Environment and Requirements
+
+- Tested with: Adobe After Effects 2025 (25.6.5)
+- Supported After Effects versions: 2025 (25.6.5) or later
+- macOS Tahoe 26.6.2
+- Apple Silicon or an Intel CPU with AVX2 support
+- 16 GB RAM minimum (32 GB recommended for 4K or larger projects)
+
+Installation
+
+1. Quit After Effects.
+2. Copy "ELDR Forge.plugin" to:
+
+   ~/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore/
+
+   Create the folder if it does not exist.
+3. Start After Effects.
+4. Confirm that ELDR Forge appears under Effect > Valkyrja Graphics.
+
+Updating
+
+Quit After Effects, replace the installed "ELDR Forge.plugin" with the new version, and restart After Effects.
+
+Uninstallation
+
+Quit After Effects, delete "ELDR Forge.plugin" from the installation folder, and restart After Effects.
+
+Signing
+
+This pre-release is not signed with a Developer ID and has not been notarized by Apple.
+macOS security features may prevent the plug-in from loading.
+Do not use files obtained from anywhere other than the official GitHub Releases page.
+
+License
+
+Read the included LICENSE.txt. By downloading or using the software, you agree to its terms.
+
+Official Distribution and Contact
+
+https://github.com/sakikake/ELDRForge/releases
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net

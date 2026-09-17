@@ -1,0 +1,86 @@
+ELDR Forge 0.1.0 - macOS Release Notes
+
+ステータス
+
+Pre-release
+
+動作確認環境・要件
+
+- 動作確認済み: Adobe After Effects 2025（25.6.5）
+- 対応するAfter Effects: 2025（25.6.5）以降
+- macOS Tahoe 26.6.2
+- Apple Silicon、またはAVX2対応のIntel CPU
+- メモリ16 GB以上（4K以上は32 GB推奨）
+- Metal、またはCPUバックエンド
+
+初回リリース
+
+- アルファ／輝度またはポイントを発生源とする炎・煙の2D流体シミュレーション
+- Metalバックエンド
+- CPUバックエンド
+
+既知の注意事項
+
+- バイナリはDeveloper ID署名およびAppleの公証を行っていません。
+- 環境によってmacOSの警告や読み込み制限が発生する場合があります。
+- この配布物はPre-releaseです。
+
+ファイル情報
+
+- ファイル名: ELDR Forge.plugin
+- アーキテクチャ: Universal Binary（x86_64 / arm64）
+- プラグインバイナリSHA-256: 5accf4710846f7be8de11be7fd8137767544013716b415843c4eafe72f67c5d9
+
+配布ZIPのSHA-256は、ZIPと同時に提供する
+「ELDRForge-0.1.0-macOS-universal.zip.sha256」で確認してください。
+
+公式配布元・連絡先
+
+https://github.com/sakikake/ELDRForge/releases
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net
+
+--- English ---
+
+ELDR Forge 0.1.0 - macOS Release Notes
+
+Status
+
+Pre-release
+
+Tested Environment and Requirements
+
+- Tested with: Adobe After Effects 2025 (25.6.5)
+- Supported After Effects versions: 2025 (25.6.5) or later
+- macOS Tahoe 26.6.2
+- Apple Silicon or an Intel CPU with AVX2 support
+- 16 GB RAM minimum (32 GB recommended for 4K or larger projects)
+- Metal or the CPU backend
+
+Initial Release
+
+- 2D fire and smoke fluid simulation using alpha/luma or a point as the source
+- Metal backend
+- CPU backend
+
+Important Notes
+
+- The binary is not signed with a Developer ID and has not been notarized by Apple.
+- macOS may display warnings or prevent the plug-in from loading in some environments.
+- This distribution is a pre-release.
+
+File Information
+
+- File name: ELDR Forge.plugin
+- Architecture: Universal Binary (x86_64 / arm64)
+- Plug-in binary SHA-256: 5accf4710846f7be8de11be7fd8137767544013716b415843c4eafe72f67c5d9
+
+Verify the distribution ZIP's SHA-256 using "ELDRForge-0.1.0-macOS-universal.zip.sha256," provided alongside the ZIP.
+
+Official Distribution and Contact
+
+https://github.com/sakikake/ELDRForge/releases
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net

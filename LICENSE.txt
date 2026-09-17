@@ -1,0 +1,135 @@
+ELDR Forge バイナリ利用規約
+バージョン 1.0（2026年）
+
+Copyright © 2026 Valkyrja-Graphics. All rights reserved.
+
+本規約は、Valkyrja-Graphics（以下「提供者」）が提供するAfter Effects用プラグイン「ELDR Forge」の実行形式、付属文書および更新物（以下「本ソフトウェア」）に適用されます。本ソフトウェアをダウンロードまたは使用した時点で、利用者は本規約に同意したものとします。
+
+1. 利用許諾
+
+提供者は利用者に対し、本規約を守ることを条件として、本ソフトウェアを映像・画像制作に使用するための、無償、非独占的、譲渡不能かつ再許諾不能の利用権を許諾します。
+
+本ソフトウェアは、個人・法人を問わず、私的制作、業務利用および商用の映像・画像制作で使用できます。利用人数およびインストールする端末数に制限はありません。
+
+2. 制作物
+
+利用者は、本ソフトウェアを使用して制作した映像、画像その他の成果物を、公開、上映、放送、配信、納品または販売できます。制作物に本ソフトウェアの著作権表示を付ける必要はありません。
+
+3. 公式配布元
+
+各利用者は、原則として次の公式GitHub Releasesから本ソフトウェアを直接取得してください。
+
+https://github.com/sakikake/ELDRForge/releases
+
+4. 禁止事項
+
+利用者は、次の行為を行うことができません。
+
+(1) 本ソフトウェアまたはその複製物を、第三者へ転載、配布、貸与、譲渡、販売または再許諾すること
+(2) 他のWebサイト、ソフトウェア、インストーラー、素材集または製品へ本ソフトウェアを配置または同梱すること
+(3) 本ソフトウェアを改変、翻案または派生物の作成に使用すること
+(4) 適用法令によって明示的に認められる場合を除き、本ソフトウェアをリバースエンジニアリング、逆コンパイルまたは逆アセンブルすること
+(5) 著作権表示その他の権利表示を削除または変更すること
+(6) 提供者または公式版との関係について、第三者に誤認を生じさせる表示または配布を行うこと
+
+企業や組織による一括導入その他の理由で再配布が必要な場合は、事前に提供者の許可を得る必要があります。
+
+5. 権利の帰属
+
+本ソフトウェアに関する著作権その他の知的財産権は、提供者または正当な権利者に帰属します。本規約は、本ソフトウェアの所有権を利用者へ移転するものではありません。「ELDR Forge」その他の名称、ロゴおよびブランドの使用権は、本規約によって許諾されません。
+
+6. 将来のバージョン
+
+提供者は、将来のバージョンについて、提供条件、機能、価格、サポート内容または本規約を変更できます。変更後の条件は、変更後に提供されるバージョンに適用されます。提供者は、旧バージョンの提供またはサポートを継続する義務を負いません。
+
+7. 利用権の終了
+
+利用者が本規約に違反した場合、本規約に基づく利用権は終了します。その場合、利用者は保有する本ソフトウェアの複製物を削除しなければなりません。
+
+8. 無保証
+
+本ソフトウェアは現状有姿で提供されます。提供者は、商品性、特定目的への適合性、正確性、継続性、互換性および権利非侵害を含め、明示または黙示を問わず保証しません。
+
+9. 責任の制限
+
+適用法令で認められる最大限の範囲において、提供者は、本ソフトウェアの使用または使用不能から生じた直接損害、間接損害、特別損害、付随的損害、結果的損害、データ消失、業務中断または逸失利益について責任を負いません。
+
+10. その他
+
+本規約の一部が無効または執行不能と判断された場合でも、その他の規定は引き続き効力を有します。本規約に明記されていない利用については、提供者による事前の許可が必要です。
+
+11. 連絡先
+
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net
+
+--- English Translation ---
+
+ELDR Forge Binary License Terms
+Version 1.0 (2026)
+
+Copyright © 2026 Valkyrja-Graphics. All rights reserved.
+
+These terms apply to the executable binaries, accompanying documentation, and updates of the After Effects plug-in "ELDR Forge" (the "Software") provided by Valkyrja-Graphics (the "Provider"). By downloading or using the Software, you agree to these terms.
+
+1. License Grant
+
+Subject to compliance with these terms, the Provider grants you a free, non-exclusive, non-transferable, and non-sublicensable license to use the Software for video and image production.
+
+The Software may be used by individuals and organizations for personal, professional, and commercial video and image production. There is no limit on the number of users or devices on which the Software may be installed.
+
+2. Works Created with the Software
+
+You may publish, exhibit, broadcast, stream, deliver, or sell videos, images, and other works created using the Software. You are not required to include the Software's copyright notice in works you create.
+
+3. Official Distribution Source
+
+As a general rule, users should obtain the Software directly from the official GitHub Releases page below.
+
+https://github.com/sakikake/ELDRForge/releases
+
+4. Prohibited Conduct
+
+You may not:
+
+(1) republish, distribute, lend, transfer, sell, or sublicense the Software or copies of it to any third party;
+(2) host the Software on another website or bundle it with another software package, installer, asset collection, or product;
+(3) modify or adapt the Software, or use it to create derivative works;
+(4) reverse engineer, decompile, or disassemble the Software, except where expressly permitted by applicable law;
+(5) remove or alter any copyright or other proprietary notice; or
+(6) describe or distribute the Software in a way that misleads third parties about its relationship to the Provider or the official version.
+
+Prior permission from the Provider is required when redistribution is necessary for organization-wide deployment or any other reason.
+
+5. Ownership
+
+All copyrights and other intellectual-property rights in the Software belong to the Provider or their lawful owners. These terms do not transfer ownership of the Software to you. These terms do not grant any right to use "ELDR Forge" or any other name, logo, or brand.
+
+6. Future Versions
+
+The Provider may change the availability, features, pricing, support, or license terms of future versions. Revised terms apply to versions distributed after the revision. The Provider is not obligated to continue providing or supporting older versions.
+
+7. Termination
+
+Your license under these terms terminates if you violate them. Upon termination, you must delete all copies of the Software in your possession.
+
+8. Disclaimer of Warranty
+
+The Software is provided "as is." The Provider disclaims all express and implied warranties, including warranties of merchantability, fitness for a particular purpose, accuracy, continuity, compatibility, and non-infringement.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Provider is not liable for any direct, indirect, special, incidental, or consequential damages, loss of data, business interruption, or lost profits arising from the use of or inability to use the Software.
+
+10. Miscellaneous
+
+If any part of these terms is held invalid or unenforceable, the remaining provisions remain in effect. Any use not expressly permitted by these terms requires the Provider's prior permission.
+
+11. Contact
+
+X: https://x.com/sakikake
+Email: sakikake@valkyrja-graphics.net
+Site: https://valkyrja-graphics.net
+
+This English text is a translation of the Japanese terms above. If there is any inconsistency, the Japanese text prevails.
